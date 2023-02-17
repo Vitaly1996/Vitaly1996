@@ -5,7 +5,7 @@ My name is Vitaly and I'm a python developer.
 Skills: Python 3, Django 2.2, Django Rest Framework, SQLite3, gunicorn, nginx, ООP, algorithms and data structures.
 
 Telegram:@Vitaly257    
-Email:vitalii.sw.sergeev@gmail.com
+Email:serg3evvitaly@yandex.ru
 <!--
 **Vitaly1996/Vitaly1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
