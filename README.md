@@ -2,7 +2,7 @@
 
 My name is Vitaly and I'm a python developer.
 
-Skills: Python 3, Django 2.2, Django Rest Framework, SQLite3, gunicorn, nginx, ООP, algorithms and data structures.
+Skills: Python 3, Django 3.2, Django Rest Framework, FastApi, Alembic, SqlAlchemy, gunicorn, nginx, ООP, algorithms and data structures.
 
 Telegram:@Vitaly257    
 Email:serg3evvitaly@yandex.ru
